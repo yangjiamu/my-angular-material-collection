@@ -29,3 +29,14 @@ https://github.com/dart-lang/angular  AngularDart is a productive web applicatio
 https://github.com/primefaces/primeng  UI Components for Angular
 
 
+************************************ngrx***********************************
+**git**
+https://github.com/ngrx/platform
+https://github.com/loiane/angular-ngrx-example
+https://github.com/avatsaev/angular-contacts-app-example
+**blog**
+https://appdividend.com/2018/01/31/angular-ngrx-store-tutorial-example-scratch/
+https://www.concretepage.com/angular-2/ngrx/ngrx-store-4-angular-5-tutorial
+http://brianflove.com/2018/01/10/ngrx-refactor-module/
+https://malcoded.com/posts/angular-ngrx-guide
+https://blog.nextzy.me/manage-action-flow-in-ngrx-with-ngrx-effects-1fda3fa06c2f
